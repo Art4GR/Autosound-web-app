@@ -1,0 +1,7 @@
+define( 'DB_NAME', 'shop_base2' );
+
+/** MySQL database username */
+define( 'DB_USER', 'root' );
+
+/** MySQL database password */
+define( 'DB_PASSWORD', '' );
