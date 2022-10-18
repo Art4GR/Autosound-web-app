@@ -1,9 +1,9 @@
-WordPress site about AvtoZvuk + shop.
+## WordPress site about AvtoZvuk + shop.
 
-Access:
+### Access:
 
-phpmyadmin: root
+- phpmyadmin: root
 
-password:
+- password:
 
-Server connection collation: utf8mb4_unicode_ci
+- server connection collation: utf8mb4_unicode_ci
